@@ -5,7 +5,7 @@ video: <https://www.youtube.com/watch?v=I1OcFX6_09c>
 
 # Comandos kubernetes
 
-minikube start
+minikube start 
 
 eval $(minikube docker-env)
 

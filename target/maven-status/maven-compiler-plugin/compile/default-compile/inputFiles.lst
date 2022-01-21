@@ -1,0 +1,5 @@
+/home/marcos/Documents/Projects/Others/springboot-crud-k8s/src/main/java/com/javatechie/crud/service/OrderService.java
+/home/marcos/Documents/Projects/Others/springboot-crud-k8s/src/main/java/com/javatechie/crud/repository/OrderRepository.java
+/home/marcos/Documents/Projects/Others/springboot-crud-k8s/src/main/java/com/javatechie/crud/controller/OrderController.java
+/home/marcos/Documents/Projects/Others/springboot-crud-k8s/src/main/java/com/javatechie/crud/SpringbootCrudK8sExampleApplication.java
+/home/marcos/Documents/Projects/Others/springboot-crud-k8s/src/main/java/com/javatechie/crud/entity/Order.java
